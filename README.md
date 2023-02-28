@@ -1,16 +1,6 @@
-# Vanilla JS Projects
+# Javascript Playground
 
-#### Enroll In The Course
-
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-## You can see all projects in action here
-
-[Projects](https://www.vanillajavascriptprojects.com/)
+[Projects]
 
 1. Color Flipper
 2. Counter
@@ -28,7 +18,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 14. Grocery Bud
 15. Slider
 
-#### Course Exclusive
+#### More complex js projects
 
 16. Counters (OOP)
 17. Gallery (OOP)
@@ -44,7 +34,5 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 27. Pagination
 28. Wikipedia
 29. Comfy Sloth
-# javascript-playground
-# javascript-playground
-# javascript-playground
+
 # javascript-playground
